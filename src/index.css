@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+}
+
+#main{
+  max-width: 1200px;
+  margin: auto;
+}
+
+header{
+  text-align: center;
+  background: #8EBA23;
+  padding: 10px;
+  color: white;
+  border-bottom: 10px solid #E65890;
+}
+
+#movie-list{
+  border: 2px solid black;
+  margin: 10px 0;
+}
+
+#sub-header{
+  text-align: center;
+}
